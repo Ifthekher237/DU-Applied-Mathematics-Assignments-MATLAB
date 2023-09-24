@@ -1,6 +1,6 @@
 # DU-Applied-Mathematics-Assignments-MATLAB
 
-![Dhaka University Logo]([https://example.com/du_logo.png](https://www.duir.ac.bd/wp-content/uploads/2016/03/DU-logo-768x431.jpg))
+![Dhaka University Logo][https://www.duir.ac.bd/wp-content/uploads/2016/03/DU-logo-768x431.jpg]
 
 Welcome to the repository containing solved assignments for 4th-year students of the Applied Mathematics department at Dhaka University. These assignments are implemented in MATLAB and serve as practical exercises for various mathematical concepts.
 
